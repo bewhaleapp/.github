@@ -1,16 +1,13 @@
-# 🐋 BeWhale Organization
+## 🐋 BeWhale Organization
+Welcome to BeWhale - Your Social Trading Mini-App
 
-Welcome to BeWhale - Your Advanced Crypto Asset Management Platform
-
-## About Us
-
-BeWhale is dedicated to providing cutting-edge solutions for cryptocurrency trading and asset management. Our platform helps users track, analyze, and optimize their crypto investments with precision and ease.
+About Us
+BeWhale is a social trading mini-app, where users collect cards with real crypto portfolios of well-known investors and earn in-game currency by completing tasks. The cards allow users to copy whale strategies by distributing their balance across assets. The goal is to grow capital and showcase optimal returns by following market movements. The app will give users basic knowledge about crypto portfolio construction and ways to improve their investment performance.
 
 ## 🚀 Key Projects
-
-- **BeWhale WebApp**: Our main web application built with Next.js
-- **BeWhale Backend**: API service powering our platform
-- **BeWhale Bot**: Telegram bot for instant notifications and tracking
+BeWhale WebApp: Our main web application built with Next.js
+BeWhale Backend: API service powering our platform
+BeWhale Bot: Telegram bot for instant notifications and tracking
 
 ## 💻 Tech Stack
 
