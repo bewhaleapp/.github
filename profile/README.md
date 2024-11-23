@@ -3,9 +3,17 @@
 BeWhale is a social trading mini-app, where users collect cards with real crypto portfolios of well-known investors and earn in-game currency by completing tasks. The cards allow users to copy whale strategies by distributing their balance across assets. The goal is to grow capital and showcase optimal returns by following market movements. The app will give users basic knowledge about crypto portfolio construction and ways to improve their investment performance.
 
 ## 🚀 Key Projects
-BeWhale WebApp: Our main web application built with Next.js
-BeWhale Backend: API service powering our platform
-BeWhale Bot: Telegram bot for instant notifications and tracking
+-BeWhale WebApp: Our main web application built with Next.js
+-BeWhale Backend: API service powering our platform
+-BeWhale Bot: Telegram bot for instant notifications and tracking
+
+## Hackers League Hackathon Info
+
+### Information for judges: 
+The frozen code is located in both repositories in the `HackathonReview` branches.
+
+- [BeWhale WebApp](https://github.com/bewhale/bewhale-webapp)
+- [BeWhale Backend](https://github.com/bewhale/bewhale-backend)
 
 ## 💻 Tech Stack
 
