@@ -12,8 +12,8 @@ BeWhale is a social trading mini-app, where users collect cards with real crypto
 ### Information for judges: 
 The frozen code is located in both repositories in the `HackathonReview` branches.
 
-- [BeWhale WebApp](https://github.com/bewhale/bewhale-webapp)
-- [BeWhale Backend](https://github.com/bewhale/bewhale-backend)
+- [BeWhale WebApp](https://github.com/bewhaleapp/bewhale-webapp)
+- [BeWhale Backend](https://github.com/bewhaleapp/bewhale-backend)
 
 ## 💻 Tech Stack
 
@@ -27,8 +27,8 @@ The frozen code is located in both repositories in the `HackathonReview` branche
 ## 🔧 Getting Started
 
 Check out our main repositories:
-- [BeWhale WebApp](https://github.com/bewhale/bewhale-webapp)
-- [BeWhale Backend](https://github.com/bewhale/bewhale-backend)
+- [BeWhale WebApp](https://github.com/bewhaleapp/bewhale-webapp)
+- [BeWhale Backend](https://github.com/bewhaleapp/bewhale-backend)
 
 ## 📫 Contact
 
